@@ -1,0 +1,10 @@
+/home/pta/turing-tournament/anchor/target/debug/deps/libspl_token_group_interface-65a843c18fd88dd9.so: /home/pta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/lib.rs /home/pta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/error.rs /home/pta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/instruction.rs /home/pta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/state.rs
+
+/home/pta/turing-tournament/anchor/target/debug/deps/libspl_token_group_interface-65a843c18fd88dd9.rlib: /home/pta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/lib.rs /home/pta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/error.rs /home/pta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/instruction.rs /home/pta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/state.rs
+
+/home/pta/turing-tournament/anchor/target/debug/deps/spl_token_group_interface-65a843c18fd88dd9.d: /home/pta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/lib.rs /home/pta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/error.rs /home/pta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/instruction.rs /home/pta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/state.rs
+
+/home/pta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/lib.rs:
+/home/pta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/error.rs:
+/home/pta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/instruction.rs:
+/home/pta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/state.rs:
